@@ -1,0 +1,1 @@
+/home/sugar/.config/nvim/init.lua
